@@ -3,3 +3,5 @@ def hello(name):
   
 def welcome(student, school):
         print(f"welcome to{school},{student}")
+        
+
